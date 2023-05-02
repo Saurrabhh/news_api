@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/79056681/235665383-5e303d37-8fbc-47db-
 ### -> Provider - [provider](https://pub.dev/packages/provider) : For state management to acheive MVVM Architecture(Eg: ChangeNotifier).
 ### -> http - [http](https://pub.dev/packages/http) : For api service.
 ### -> Hive - [hive](https://pub.dev/packages/hive), [hive_flutter](https://pub.dev/packages/hive_flutter) : For local storage of news to store News Object List into cache memory efficiently (To show news in offline mode too).
-### -> Firebase Authentication - [firebase_auth](https://pub.dev/packages/firebase_auth),[google_sign_in](https://pub.dev/packages/google_sign_in),[flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth) : For email, google and facebook authentication.
+### -> Firebase Authentication - [firebase_auth](https://pub.dev/packages/firebase_auth), [google_sign_in](https://pub.dev/packages/google_sign_in),  [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth) : For email, google and facebook authentication.
 ### -> Firebase Realtime Database - [firebase_database](https://pub.dev/packages/firebase_database) : For storing user data.
 ### -> SharedPreferences - [shared_preferences](https://pub.dev/packages/shared_preferences) : For storing user data locally(To cache login whithout internet).
 ### -> Connectivity Plus - [connectivity_plus](https://pub.dev/packages/connectivity_plus) : To check the internet connectivity of the mobile.
