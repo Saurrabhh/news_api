@@ -11,3 +11,7 @@ News Api App
 ### -> SharedPreferences : For storing user data locally.
 
 ![alt text](https://github.com/Saurrabhh/quantum_assignment/blob/master/assets/screenshots/Screenshot_2023-05-02-17-12-10-538_com.example.quantum_assignment.jpg?raw=true)
+
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/Saurrabhh/quantum_assignment/blob/master/assets/screenshots/Screenshot_2023-05-02-17-12-10-538_com.example.quantum_assignment.jpg?raw=true)" width="350" title="hover text">
+</p>
