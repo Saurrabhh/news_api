@@ -9,3 +9,5 @@ News Api App
 ### -> Firebase Authentication: For email, google and facebook authentication.
 ### -> Firebase Realtime Database : For storing user data.
 ### -> SharedPreferences : For storing user data locally.
+
+![alt text](https://github.com/Saurrabhh/quantum_assignment/blob/master/assets/screenshots/Screenshot_2023-05-02-17-12-10-538_com.example.quantum_assignment.jpg?raw=true)
