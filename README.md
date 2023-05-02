@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/79056681/235665383-5e303d37-8fbc-47db-
 
 
 ## Plugins used
-### -> Provider: For state management to acheive MVVM Architecture.
+### -> Provider: For state management to acheive MVVM Architecture(Eg: ChangeNotifier).
 ### -> http : For api service.
 ### -> Hive : For local storage of news to store News Object List into cache memory efficiently (To show news in offline mode too).
 ### -> Firebase Authentication: For email, google and facebook authentication.
