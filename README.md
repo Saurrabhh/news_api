@@ -1,6 +1,11 @@
 # quantum_assignment
 
-News Api App
+News Api App <br>
+Video Link - https://drive.google.com/file/d/1pl1yvYn0dUbPYl-cZhluckt99svZhN9E/view?usp=sharing
+
+
+https://user-images.githubusercontent.com/79056681/235665383-5e303d37-8fbc-47db-adb6-62e09ec45f3b.mp4
+
 
 ## Plugins used
 ### -> Provider: For state management.
